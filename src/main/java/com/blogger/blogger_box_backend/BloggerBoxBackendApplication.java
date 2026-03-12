@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 	info = @Info(
 			title = "Blogger Box backend",
 			description = "Blogger box endpoints and apis",
-			contact = @Contact(name = "Cardly", email = "Cardz@api.com"),
+			contact = @Contact(name = "Rajaa", email = "rajaa.bouthanout@dauphine.eu"),
 			version = "1.0.0"
 	))
 public class BloggerBoxBackendApplication {
